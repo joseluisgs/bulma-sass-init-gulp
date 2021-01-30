@@ -5,7 +5,6 @@ Plantilla para crear proyectos web Bulma con HTML5/CSS3 usando Saas y temas prop
 [![Bulma](https://img.shields.io/badge/Bulma-%20Ready-00d1b2)](https://bulma.io/made-with-bulma/)
 [![Saas](https://img.shields.io/badge/Sass-%20Ready-ff69b4)](https://sass-lang.com/)
 [![Gulp](https://img.shields.io/badge/Gulp-%20Ready-cf4647)](https://gulpjs.com/)
-[![NPM](https://img.shields.io/badge/NPM-%20Ready-CE0000)](https://www.npmjs.com/package/bulma-sass-init-gulp)
 [![Licence](https://img.shields.io/github/license/joseluisgs/bulma-sass-init-gulp)](./LICENSE)
 ![GitHub](https://img.shields.io/github/last-commit/joseluisgs/bulma-sass-init-gulp)
 
